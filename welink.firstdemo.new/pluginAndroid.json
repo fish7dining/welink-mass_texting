@@ -1,0 +1,8 @@
+{
+"package":"com.huawei.works.h5.firstdemo",
+"packageAlias":"welink.firstdemo",
+"versionCode":"1",
+"versionName":"1.0.0",
+"indexURL":"h5://welink.firstdemo/html/index.html",
+"minAdaptedCode":"111"
+}

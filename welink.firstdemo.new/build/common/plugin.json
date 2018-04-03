@@ -1,0 +1,8 @@
+{
+    "package": "com.huawei.works.h5.common",
+    "packageAlias": "common",
+    "versionCode": "16",
+    "versionName": "1.0.16",
+    "indexURL": "h5://common/html/index.html",
+    "minAdaptedCode": "94"
+}
